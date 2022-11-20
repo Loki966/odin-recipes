@@ -1,0 +1,21 @@
+img {
+  height: auto;
+  width: 800px;
+}
+body {
+  background-color: rgb(121, 67, 75);
+  color: whitesmoke;
+  text-align: center;
+  font-family: Garamond, sans-serif;
+}
+
+h1 {
+  font-size: 40px;
+}
+.homemade {
+  background-color: rgb(195, 153, 89);
+}
+
+.holiday {
+  background-color: rgb(162, 172, 180);
+}
